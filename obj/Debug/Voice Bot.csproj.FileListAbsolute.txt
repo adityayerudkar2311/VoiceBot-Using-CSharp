@@ -1,0 +1,19 @@
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\bin\Debug\Voice Bot.exe
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\bin\Debug\Voice Bot.exe.config
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csproj.AssemblyReference.cache
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice_Bot.Form1.resources
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice_Bot.Properties.Resources.resources
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csproj.GenerateResource.cache
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csproj.CoreCompileInputs.cache
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.exe
+C:\Users\adity\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.pdb
+C:\Users\adity\source\repos\Project1\VoiceBot\bin\Debug\Voice Bot.exe.config
+C:\Users\adity\source\repos\Project1\VoiceBot\bin\Debug\Voice Bot.exe
+C:\Users\adity\source\repos\Project1\VoiceBot\bin\Debug\Voice Bot.pdb
+C:\Users\adity\source\repos\Project1\VoiceBot\obj\Debug\Voice Bot.csproj.AssemblyReference.cache
+C:\Users\adity\source\repos\Project1\VoiceBot\obj\Debug\Voice_Bot.Form1.resources
+C:\Users\adity\source\repos\Project1\VoiceBot\obj\Debug\Voice_Bot.Properties.Resources.resources
+C:\Users\adity\source\repos\Project1\VoiceBot\obj\Debug\Voice Bot.csproj.GenerateResource.cache
+C:\Users\adity\source\repos\Project1\VoiceBot\obj\Debug\Voice Bot.csproj.CoreCompileInputs.cache
+C:\Users\adity\source\repos\Project1\VoiceBot\obj\Debug\Voice Bot.exe
+C:\Users\adity\source\repos\Project1\VoiceBot\obj\Debug\Voice Bot.pdb
